@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
-
+# NAME: POOJASRI L
+# REG.NO:212223220076
+# DATE: 28/02/2025
 
 # Aim : 
 
